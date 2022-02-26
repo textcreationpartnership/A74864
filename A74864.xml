@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of James Hind (close prisoner in New-gate) to the right honourable the Councell of State; and their proceedings thereupon. Together with the speech and confession of the Bishop of Clonwel at the place of execution at Limmerick in Ireland, on the 9 of this instant November, 1651. As also, his prayer immediately before he was turned off the ladder; and his declaration to the people, concerning the King of Scots; and the grounds of his engagement against the Parliament. Likewise, the manner of the deportment of General Oneal, and 29 colonels and other officers, who were all hanged at the same time.</title>
+            <author>Hind, James, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74864</idno>
+            <idno type="STC">Wing H2052</idno>
+            <idno type="STC">Thomason E647_2</idno>
+            <idno type="STC">ESTC R208796</idno>
+            <idno type="EEBO-CITATION">99867719</idno>
+            <idno type="PROQUEST">99867719</idno>
+            <idno type="VID">165994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E647[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of James Hind (close prisoner in New-gate) to the right honourable the Councell of State; and their proceedings thereupon. Together with the speech and confession of the Bishop of Clonwel at the place of execution at Limmerick in Ireland, on the 9 of this instant November, 1651. As also, his prayer immediately before he was turned off the ladder; and his declaration to the people, concerning the King of Scots; and the grounds of his engagement against the Parliament. Likewise, the manner of the deportment of General Oneal, and 29 colonels and other officers, who were all hanged at the same time.</title>
+                  <author>Hind, James, d. 1652.</author>
+                  <author>O'Brien, Terence Albert, 1601-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Clonwel = Terence Albert O'Brien O.P., Bishop of Emly, who, in fact was executed 31 October 1651; Hugh O'Neill in fact was not executed.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>O'Neill, Hugh, fl. 1642-1660.</term>
+               <term>O'Brien, Terence Albert, 1601-1651.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Catholic Church --  Ireland --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Catholics --  Ireland --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165994:1" rendition="simple:additions"/>
+            <p>The Humble PETITION OF JAMES HIND (Cloſe Priſoner in New-gate) To the Right Honourable the Councell of State; And their proceedings thereupon.</p>
+            <p>
+               <hi>TOGETHER</hi> With the Speech and Confeſſion of the Biſhop of CLONWEL at the place of Execution at <hi>Limmerick</hi> in <hi>Ireland,</hi> on the 9 of this inſtant <hi>November,</hi> 1651.</p>
+            <p>AS ALSO, His Prayer immediately before he was turned off the Ladder; And his Declaration to the People, concerning the King of Scots; and the Grounds of his Engagement againſt the PARLIAMENT.</p>
+            <p>Likewiſe, the manner of the Deportment of General <hi>Oneal,</hi> and 29 Colonels and other Officers, who were all hanged at the ſame time. <add>Novemb. 21.</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. HORTON,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165994:2"/>
+            <pb n="1" facs="tcp:165994:2"/>
+            <head>The humble Petition of James Hind, to the Right Honorable the Councel of State; and their proceedings thereupon.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat whereas your Petitioner (cloſe Priſoner in New-gate) is unfeignedly ſorrowfull for all his late miſcarriages, whether teſtified againſt him, or acknowledged by him; and that upon ear<g ref="char:EOLhyphen"/>neſt ſeeking of God, and inquiring into his Will, your Petitioner is convinced of his former miſde<g ref="char:EOLhyphen"/>meanours and actings; but yet remaineth under the heavie Yoak of Irons and Bondage:</p>
+            <q>
+               <p>May it therefore pleaſe this Honourable Coun<g ref="char:EOLhyphen"/>cel to take theſe premiſes into your gracious conſideration; and to vouchſafe your Chri<g ref="char:EOLhyphen"/>ſtian favour and clemency to your poor Sup<g ref="char:EOLhyphen"/>plicant, for the ſetting of him free from this intollerable Iron Yoak; for the granting of his friends acceſs unto him; and for the redu<g ref="char:EOLhyphen"/>cing of him from the bare boords, to a more Chriſtian-like Condition.</p>
+               <p>
+                  <hi>And your Petitioner ſhall ever pray, &amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> premiſes being taken into conſideration, it was or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he ſhould have a bed; which was the final reſult.</p>
+            <p>
+               <pb n="2" facs="tcp:165994:3"/>
+By Letters from <hi>Ireland</hi> it is certified, that upon the ſur<g ref="char:EOLhyphen"/>render of the ſtrong Town of <hi>Limrick</hi> in <hi>Ireland,</hi> the Biſhop of <hi>Clonwel,</hi> Gen. <hi>Oneal,</hi> Col. <hi>Fitzpatrick,</hi> Col. <hi>Hugh Brian,</hi> and 27. more Colonels, Lieut. Colonels, and Majors, were de<g ref="char:EOLhyphen"/>lieved up to the Lord Deputy <hi>Ireton,</hi> on termes of mercy; who upon the 8. of this inſtant <hi>Novemb.</hi> called a Councel of Officers, and after ſome time ſpent in debate upon matter of life, it was reſolved that juſtice ſhould ſeize <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them; and accordingly gave ſentence, That the ſaid Biſhop <hi>Oneal,</hi> and the reſt, ſhould be executed on the day following; and that a Gallows ſhould be ſet up in the <hi>Market</hi>-place, which was accordingly done; and on the 9 inſtant the Biſhop, <hi>Oneal,</hi> and the reſt, were all brought to the place of Execution, be<g ref="char:EOLhyphen"/>ing guarded by 6. Troops of Horſe, and one Regiment of Foot: When they were brought to the ſaid place, the Bi<g ref="char:EOLhyphen"/>ſhop was the firſt that taſted of the Cup; and coming to the foot of the Ladder, he kiſſed it, ſaying,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="scaffold_speech">
+                        <opener>
+                           <salute>Good people,</salute>
+                        </opener>
+                        <p>THis is a very uncomfortable place, for me to deliver my ſelf unto you; but I beſeech you pardon my fail<g ref="char:EOLhyphen"/>ings, and the rather, by reaſon of the ſad occaſion that hath brought me hither: Indeed, I have been long in my race, and how I have looked unto Jeſus the Authour and finiſh<g ref="char:EOLhyphen"/>er of my faith, is beſt known to him; I am now come to the end of my race, which I find to be a death of ſhame, but the ſhame muſt be deſpiſed, or there is no coming to the right hand of God; Jeſus deſpiſed the ſhame for me upon the Croſſe, and God forbid but I ſhould deſpiſe the ſhame for him upon the Gallowes; I am going apace, as you ſee, to<g ref="char:EOLhyphen"/>wards the Red Sea, and my feet are upon the very brinks of it, an Argument I hope that God is bringing me to the Land of promiſe, for that was the way by which of old he led his people.</p>
+                        <p>
+                           <pb n="3" facs="tcp:165994:3"/>
+But before they came to the Sea, he inſtituted a paſſe o<g ref="char:EOLhyphen"/>ver for them, a Lamb it was, but it was to be eaten with very ſowr Herbs, as in the 12. of <hi>Exodus.</hi> I ſhall obey and labour to digeſt the ſowr Herbs, as well as the Lamb, and I ſhall remember, that it is the Lords paſſe-over, I ſhall not think of the Herbs, nor be angry with the hands that gathered them, but look up only to him who inſtituted the one, and governeth the other: For Men can have no more power over me, then that which is given them from above; and although I am denyed mercy here on earth, yet I doubt not but to receive it in Heaven, I am not in love with this paſſage through the Red Sea, for I have the weak<g ref="char:EOLhyphen"/>neſs and infirmity of fleſh and blood in me, and I have pray<g ref="char:EOLhyphen"/>ed as my Saviour taught me, and exampled me; <hi>
+                              <g ref="char:V">Ʋ</g>t tran<g ref="char:EOLhyphen"/>ſiret calix iſta,</hi> That this Cup might paſſe away from me; but ſince it is not, that my will may, his will be done; and I ſhall moſt willingly drink of it as deep as he pleaſes, and enter into this Sea, I and I paſſe through it, in the way that he ſhall be pleaſed to leade me. And yet (good people) it would be remembrad, That when the Servants of God, old <hi>Iſrael,</hi> were in this boyſtrous Sea, and <hi>Aaron</hi> with them, the <hi>Egyptians</hi> which perſecuted them, and did in a manner drive them into that Sea, were drowned in the ſame waters while they were in purſuit of them: I know my God whom I ſerve, is as able to deliver me from this Sea of blood, as he was to deliver the 3. Children from the furnace. <hi>Dan.</hi> 3. And I moſt humbly thank my Saviour for it. My Reſo<g ref="char:EOLhyphen"/>lution is now, as theirs was then; their Reſolution was, they would not change their principles, nor worſhip the <hi>Image</hi> which the King had ſet up; nor ſhall <hi>I</hi> the imagina<g ref="char:EOLhyphen"/>tions which the people are ſetting up; neither will <hi>I</hi> for<g ref="char:EOLhyphen"/>ſake the Temple and Truth of God, to follow the bleat<g ref="char:EOLhyphen"/>ing of <hi>Jeroboams</hi> Calves in <hi>Dan</hi> and in <hi>Bethel.</hi>
+                        </p>
+                        <p>
+                           <pb n="4" facs="tcp:165994:4"/>
+And I pray God bleſſe all this people, and open their eyes, that they may ſee the right way; for if it fall out that the blind lead the blind, doubtleſs they will fall both into the ditch: For my ſelf, I am, (and Lacknowledge it in all humility) a moſt grievous ſinner, and therefore I cannot doubt but that God hath mercy in ſtore for me a poor pe<g ref="char:EOLhyphen"/>nitent, as well as for other ſinners; I have upon this ſad occaſion ranſack'd every corner of my heart, &amp; yet I thank God I have not found any of my ſins that are there, any ſins now deſerving death by any known Law. And I thank God, though the wait of the ſentence lie very hard upon me, yet I am as quiet within, (I thank Chriſt for it) as I e<g ref="char:EOLhyphen"/>ver was in my life. I ſhall haſten to go out of this miſerable life, for I am not willing to be tedious; and I beſeech you, as many as are within hearing, obſerve me, I was born and baptized in the boſome of the Church of <hi>Rome,</hi> (the ancient and true Church) and in that Profeſſion I have ever ſince lived, and in the ſame I now die. As touching my Engage<g ref="char:EOLhyphen"/>ment in Arms, I did it in two reſpects, Firſt, for the pre<g ref="char:EOLhyphen"/>ſervation of my principles and Tenents. And ſecondly, for the eſtabliſhing of the King, and the reſt of the Royal iſſue, in their juſt Rights and Priviledges. I will not inlarge my ſelf any further, I have done, I forgive all the world, all and every of theſe bitter Enemies, or others whatſoever they have been, which have any wayes proſecuted me in this kind; I humbly deſire to be forgiven firſt of God, and then of every man, whether I have offended him or no; if he do but conceive that I have: Lord do thou forgive me, and I beg forgivneſs of him, and ſo I heartily deſire you to joyn with me in prayer.</p>
+                        <div type="prayer">
+                           <pb n="5" facs="tcp:165994:4"/>
+                           <head>The Biſhop of <hi>Clonwels</hi> Prayer immediatly before he was turned off the Ladder.</head>
+                           <p>O Eternal God, and merciful Father, look down upon me in mercy, in the riches and fulneſs of all my mer<g ref="char:EOLhyphen"/>cies look down upon me; but not till thou haſt nailed my ſins to the Croſſe of Chriſt. Look upon me, but not till thou haſt bathed me in the blood of Chriſt; not till I have hid my ſelf in the wounds of Chriſt, that ſo the puniſh<g ref="char:EOLhyphen"/>ment that is due to my ſins, may paſſe away and go over me; and ſince thou art pleaſed to buy me to the uttermoſt, I hartily beſe<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ch thee give me now in this great inſtant full patience proportionable comfort, a heart ready to die for thine honour, the Kings happineſs, and the Churches pre<g ref="char:EOLhyphen"/>ſervation; and my zeal to theſe (far from arrogancy be it ſpoken) is all the ſin (humane frailty excepted, and all in<g ref="char:EOLhyphen"/>cidents thereunto) which is yet known of me in this parti<g ref="char:EOLhyphen"/>cular for which I now come to ſuffer: I ſay in this parti<g ref="char:EOLhyphen"/>cular of Treaſon; but otherwiſe my ſins are many and great, Lord pardon them all, and thoſe eſpecially whatſo<g ref="char:EOLhyphen"/>ever they be, which have drawn down this preſent judge<g ref="char:EOLhyphen"/>ment upon me; and when thou haſt given me ſtrength to bear it, then do with me as ſeems beſt in thine own eyes, and carry me through death, that I may look upon it in what viſage ſoever it ſhall appear to me. O Lord, I beſeech thee, give grace of repentance to all people that have a thirſt for blood; but if they will not repent, then ſcatter their devi<g ref="char:EOLhyphen"/>ces ſo, and ſuch as are, or ſhall be contrary to the glory of thy great name: the truth and ſincerity of the ancient Ca<g ref="char:EOLhyphen"/>tholique Religion, the eſtabliſhing of the Royal Poſterity in their juſt Rights and Liberties, the preſervation of this poor Church in her truth, peace, and patrimony, and the ſettlement of this diſtracted and diſtreſſed people under
+<pb n="6" facs="tcp:165994:5"/>their ancient Lawes, and in their Native Liberties: And when thou haſt done this in meer mercy for them, O Lord fill their hearts with thankfulneſs, and with religious du<g ref="char:EOLhyphen"/>tiful obedience to thee and thy Commandements all their dayes. So Amen Lord Jeſus; And I beſeech thee receive my ſould to mercy.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>When he had finiſhed his Prayer, he took his leave of ſome friends there preſent, ſaying, <hi>Gods bleſſing and his mer<g ref="char:EOLhyphen"/>cy be upon you all;</hi> and ſo went up to the Ladder, where he a<g ref="char:EOLhyphen"/>gain prayed as followeth.</p>
+            <p>
+               <q>LOrd I am coming as faſt as I can, I know I muſt paſſe through the ſhadow of death before I can come to ſee thee; but it is but <hi>umbra mortis,</hi> a meer ſhadow of death, a little darkneſs upon nature; but thou by the merits and paſſion haſt broke the jaws of death; ſo Lord receive my ſoul, and have mercy upon me.</q>
+            </p>
+            <p>No ſooner had he uttered theſe expreſſions, but imme<g ref="char:EOLhyphen"/>diately he was turned off the Ladder. And after him, Gen: <hi>Oneal</hi> was the next in order, who died very penitently; and ſo did all the reſt, who at the very hour of death, declared themſelves to be profeſt Enemies to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
